@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://mtaiku.github.io/sitemap/sitemap.Ztq.gz
